@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Biceps_cmdln, fmri_prep, HCP processing**
 
-- 💬 Ask me about **Simnibs_cifti_tools, or integrating multiple programming languages to solve complex questions**
+- 💬 Ask me about **Simnibs_cifti_tools, GDC_GenomicsQC, or integrating multiple programming languages to solve complex questions**
 
 - 📫 How to reach me **baron063@umn.edu**
 
