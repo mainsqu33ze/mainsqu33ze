@@ -11,7 +11,7 @@
 
 - 📄 Know about my colleagues [https://innovation.umn.edu/developmental-cognition-and-neuroimaging-lab/our-team/research-assistants/](https://innovation.umn.edu/developmental-cognition-and-neuroimaging-lab/our-team/research-assistants/)
 
-- ⚡ Fun fact **I am Hispanic, Chinese, and European yet only speak English fluently**
+- ⚡ Fun fact **I have an extra tooth inside my jawbone like sharks do**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
