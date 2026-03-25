@@ -6,7 +6,7 @@
 - 🌱 Projects I am working on
 -   [UMN-GDC/prs_pipeline](https://github.com/UMN-GDC/prs_pipeline)
 -   [GDCGenomicsQC](https://github.com/UMN-GDC/GDCGenomicsQC)
--   [DCAN-Labs/biceps_cmdln](https://github.com/DCAN-Labs/biceps_cmdln) [Associated ReadTheDocs](https://biceps-cmdln.readthedocs.io/en/latest/)
+-   [DCAN-Labs/biceps_cmdln](https://github.com/DCAN-Labs/biceps_cmdln) --> [Associated ReadTheDocs](https://biceps-cmdln.readthedocs.io/en/latest/)
 
 - 💬 Ask me about **Simnibs_cifti_tools, GDCGenomicsQC, Biceps_cmdln, converting scripts to be command line executable, or integrating multiple programming languages to solve complex questions**
 
