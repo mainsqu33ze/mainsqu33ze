@@ -12,8 +12,6 @@
 
 - 📫 How to reach me **baron063@umn.edu**
 
-- 📄 Know about my colleagues [https://innovation.umn.edu/developmental-cognition-and-neuroimaging-lab/our-team/research-assistants/](https://innovation.umn.edu/developmental-cognition-and-neuroimaging-lab/our-team/research-assistants/)
-
 <p align="left">
 </p>
 
